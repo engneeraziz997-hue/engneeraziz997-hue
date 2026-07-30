@@ -171,11 +171,11 @@ VPS
 # 📫 التواصل
 
 GitHub
-
+https://github.com/engneeraziz997-hue
 LinkedIn
-
+https://www.linkedin.com/in/abdulaziz-alzomor-859022424?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Email
-
+abdulazizmoqbel2030@gmail.com
 ---
 
 <div align="center">
