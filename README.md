@@ -174,8 +174,7 @@ GitHub
 https://github.com/engneeraziz997-hue
 LinkedIn
 https://www.linkedin.com/in/abdulaziz-alzomor-859022424?
-Email
-abdulazizmoqbel2030@gmail.com
+
 ---
 
 <div align="center">
