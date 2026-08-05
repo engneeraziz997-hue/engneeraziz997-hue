@@ -36,8 +36,6 @@ Backend
 
 - Python
 - FastAPI
-- Flask
-- Django
 - PHP REST APIs
 - REST API Design
 - Webhooks
@@ -59,7 +57,6 @@ Mobile
 Databases
 
 - MySQL
-- PostgreSQL
 - Redis
 
 AI & LLM
@@ -88,8 +85,6 @@ Tools
 - GitHub
 - Docker
 - VS Code
-- Postman
-- Linux
 
 
 
